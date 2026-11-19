@@ -2,4 +2,4 @@
 
 Author: Nanxuan Li
 
-Solving merge conflict
+Solving merge conflicts is easy!
